@@ -22,6 +22,29 @@ A Windows Forms application developed in **C# using Visual Studio**, designed to
 - Generate and view student performance reports
 - Manage quizzes
 
+## 🖼️ Screenshots
+
+### 1. Front Page
+![Front Page](Screen%20Shots/QEMS%20Project%20Front%20Page.png)
+
+### 2. Student Register Form
+![Student Register Form](Screen%20Shots/QEMS%20Project%20-%20Student%20Register%20Form.png)
+
+### 3. Student Page
+![Student Page](Screen%20Shots/QEMS%20Project%20-%20Student%20Page.png)
+
+### 4. Lecture Register Form
+![Lecture Register Form](Screen%20Shots/QEMS%20Project%20-%20Lecture%20Register%20Form.png)
+
+### 5. Lecture Profile
+![Lecture Profile](Screen%20Shots/QEMS%20Project%20-%20Lecture%20Profile.png)
+
+### 6. Add Question
+![Add Question](Screen%20Shots/QEMS%20Project%20-%20Add%20Question.png)
+
+### 7. Update Question
+![Update Question](Screen%20Shots/QEMS%20Project%20Update%20Question.png)
+
 ## ✨ Key Features
 
 - Student and Lecturer registration forms
